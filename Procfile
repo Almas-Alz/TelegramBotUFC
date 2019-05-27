@@ -1,1 +1,1 @@
-web: UFC-Information-Bot.py 
+worker: UFC-Information-Bot.py 
